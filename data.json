@@ -1,0 +1,10 @@
+{
+  "photos": [
+    {"id": 1, "url": "https://picsum.photos/seed/leaf33/400/530", "desc": "路过花店，买了一束小雏菊回家", "nickname": "小花", "likes": 12, "time": "2026-11-03 10:00"},
+    {"id": 2, "url": "https://picsum.photos/seed/brew42/400/300", "desc": "周末早午餐", "nickname": "咖啡控", "likes": 8, "time": "2026-11-03 09:00"},
+    {"id": 3, "url": "https://picsum.photos/seed/sky15/400/500", "desc": "抬头看天，云朵好温柔", "nickname": "云游客", "likes": 24, "time": "2026-11-03 07:00"},
+    {"id": 4, "url": "https://picsum.photos/seed/book28/400/340", "desc": "午后阅读时光", "nickname": "书虫", "likes": 6, "time": "2026-11-02 15:00"},
+    {"id": 5, "url": "https://picsum.photos/seed/pup8/400/460", "desc": "小区里遇到的柯基，太可爱了！", "nickname": "铲屎官", "likes": 31, "time": "2026-11-02 14:00"},
+    {"id": 6, "url": "https://picsum.photos/seed/latte19/400/380", "desc": "今天的拉花好漂亮", "nickname": "咖啡控", "likes": 15, "time": "2026-11-01 10:00"}
+  ]
+}
